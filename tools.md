@@ -22,6 +22,7 @@
 - [CircleCI](https://circleci.com/docs/)：持续集成和交付平台
 - [Drone](https://docs.drone.io/)：基于容器的 CI/CD 工具
 - [Jenkins X](https://jenkins-x.io/docs/)：Kubernetes 原生 CI/CD 方案
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)：Kubernetes 声明式 GitOps 持续交付工具
 
 ---
 
